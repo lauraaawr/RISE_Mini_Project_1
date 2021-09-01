@@ -1,6 +1,6 @@
-## RISE_Mini_Project_1
+## Plant Operational Process Dashboard
 
-Mini Project 1 using Power BI for analysis.
+Mini project using Power BI for analysis.
 
 __Introduction__ <br>
 A global automotive seating systems supplier with 200+ manufacturing plants, supplying 25 million cars annually.  
